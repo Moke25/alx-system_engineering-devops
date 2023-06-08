@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod d -R ugo+X
+chmod d -R u+x,g+x,o+x
