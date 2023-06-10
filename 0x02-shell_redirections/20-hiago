@@ -1,2 +1,2 @@
 #!/bin/bash
-rem "^[c]"
+rm ^c
